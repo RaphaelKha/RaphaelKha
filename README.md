@@ -1,16 +1,24 @@
-## Hi there 👋
+# Raphael Khayat
 
-<!--
-**RaphaelKha/RaphaelKha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML engineer focused on probabilistic state estimation, time-series forecasting and applied deep learning. Based in Herzliya, Israel.
 
-Here are some ideas to get you started:
+## What I work with
+- **ML / DL:** PyTorch, TensorFlow, scikit-learn, time-series models, Gaussian processes
+- **Signal & estimation:** Kalman filtering, sensor fusion, Monte Carlo validation
+- **Data:** pandas, NumPy, geolocation data pipelines
+- **LLM systems:** RAG, vector databases, agent orchestration (LangGraph, AutoGen, CrewAI, OpenAI Agents SDK)
+- **Backend:** Python, FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- **AI & Data Science Engineer, Thales LAS:** real-time aircraft trajectory prediction with Kalman filtering, sensor fusion and Monte Carlo validation
+- **Digital Transformation / Data Engineer, Groupe Sterne:** geolocation data engineering, route optimization and PoC delivery
+
+## Education
+- M.Sc. Applied Mathematics for AI & Data Science, Université de Paris (with Honors)
+- B.Sc. Mathematics, Sorbonne Université
+
+## Focus areas
+- Probabilistic state estimation
+- Time-series forecasting
+- Signal processing and image restoration (denoising, inpainting)
+- LLM-based applications
